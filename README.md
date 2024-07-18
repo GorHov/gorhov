@@ -25,7 +25,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" title="Vuex" alt="Vuex" width="40"         height="40"/>&nbsp;
       <img src="https://emojis.slackmojis.com/emojis/images/1653495163/59365/pinia.png?1653495163" title="Pinia" alt="Pinia" width="40"         height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg "title="Pinia" alt="Pinia" width="40"height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg "title="Three.js" alt="Three.js" width="40"height="40"/>&nbsp;
   </div>
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
